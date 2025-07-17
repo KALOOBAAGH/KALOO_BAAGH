@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KALOOBAAGH</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I’m a passionate Bug Bounty Hunter and CTF player from Nepal</h3>
 
 - 🔭 I’m currently working on [NCA nepal](https://ncateam.xyz/)
 
