@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/KALOOBAAGH/KALOO_BAAGH/blob/main/banner.jpg?raw=true" alt="MasterHead" width="800" height="300" style="border-radius: 10px;" />
+  <img src="https://github.com/KALOOBAAGH/KALOO_BAAGH/blob/main/banner.jpg?raw=true" alt="MasterHead" width="600" height="400" style="border-radius: 10px;" />
 </p>
 
 <img align="right" width="300" src="https://github.com/KALOOBAAGH/KALOO_BAAGH/blob/main/hellow.gift?raw=true">
