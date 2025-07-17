@@ -2,7 +2,7 @@
   <img src="https://github.com/KALOOBAAGH/KALOO_BAAGH/blob/main/banner.jpg?raw=true" alt="MasterHead" width="600" height="400" style="border-radius: 10px;" />
 </p>
 
-<img align="right" width="300" src="https://github.com/KALOOBAAGH/KALOO_BAAGH/blob/main/hellow.gift?raw=true">
+<img align="right" width="200" src="https://github.com/KALOOBAAGH/KALOO_BAAGH/blob/main/hellow.gift?raw=true">
 <h1 align="center">NAMASKAR 👏 , I'm KALOOBAAGH</h1>
 
 
