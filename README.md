@@ -1,4 +1,6 @@
-![MasterHead]https://github.com/KALOOBAAGH/KALOO_BAAGH/blob/main/banner.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/KALOOBAAGH/KALOO_BAAGH/blob/main/banner.jpg?raw=true" alt="MasterHead" style="border-radius: 10px;" />
+</p>
 <h1 align="center">NAMASKAR 👏 , I'm KALOOBAAGH</h1>
 <h3 align="center">I’m a passionate Bug Bounty Hunter and CTF player from Nepal</h3>
 
